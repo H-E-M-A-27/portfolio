@@ -50,10 +50,12 @@ GPA: 3.71
 
 ## 🧠 Technical Skills
 
-**Languages:** Python, SQL, R, Java, JavaScript, C/C++, HTML, CSS  
-**Libraries & Tools:** Pandas, Seaborn, OpenCV, TensorFlow, Keras, Scikit-learn, PySpark, Flask, Tableau, Power BI, Git  
-**Cloud & Platforms:** AWS, Azure, GCP, Snowflake, Salesforce  
-**Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB, MS SQL  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
