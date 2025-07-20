@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE (OPTIONAL) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hemashreekilari/hemashreekilari/main/assets/banner.png" alt="banner" width="100%" />
+  <img src="[https://raw.githubusercontent.com/hemashreekilari/hemashreekilari/main/assets/banner.png](https://github.com/H-E-M-A-27/portfolio/blob/main/Helloworldimg.jpg)" alt="banner" width="100%" />
 </p>
 
 <!-- PROFILE IMAGE -->
