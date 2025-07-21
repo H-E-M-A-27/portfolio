@@ -50,7 +50,7 @@
 
 ## 🏢 Experience
 
-### 🖥️ **eClinicalWorks** — *Applications systems Analyst* (Jun 2024 – Present)
+### 🖥️ **eClinicalWorks** — *Applications Systems Analyst* (Jun 2024 – Present)
 - Resolved 100+ HL7 interface issues monthly ensuring seamless healthcare data flow  
 - Collaborated on 30+ live interface deployments enhancing workflow by 15%  
 - Ensured timely, compliant, and technically sound support across healthcare systems
@@ -83,12 +83,12 @@
 
 ## 💡 Projects
 
-### ☀️ **Solar Vision**  
+### ☀️ [**Solar Vision**](https://www.linkedin.com/posts/hemashreekilari_solarvision-forecasting-machinelearning-activity-YOUR-LINKEDIN-POST-ID)  
 *ML Forecasting for Solar Energy Output*  
 - Hybrid ARIMA-LSTM model built in Python  
 - Achieved 97.29% R² score for solar energy predictions  
 
-### 🎗 **Breast Cancer Prediction**  
+### 🎗 [**Breast Cancer Prediction**](https://www.linkedin.com/posts/hemashreekilari_machinelearning-breastcancer-python-activity-YOUR-LINKEDIN-POST-ID)  
 *ML Classification Model*  
 - Used supervised + unsupervised learning  
 - Attained 84% classification accuracy  
