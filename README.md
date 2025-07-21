@@ -5,7 +5,7 @@
 
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-ogmwf&psig=AOvVaw3v-gOzr-zK7kBHLxWj0lnV&ust=1753142849089000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIiar5rUzI4DFQAAAAAdAAAAABAE" width="150" style="border-radius: 50%;" alt="Hemashree Kilari" />
+  <img src="pngegg.png" width="150" style="border-radius: 50%;" alt="Hemashree Kilari" />
 </p>
 
 <h1 align="center">Hi, I'm Hemashree Kilari 👋</h1>
