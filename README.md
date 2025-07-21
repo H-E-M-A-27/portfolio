@@ -107,7 +107,6 @@
 <p align="center">
   <a href="mailto:kilari.h@northeastern.edu"><img src="https://img.shields.io/badge/Email-kilari.h@northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hemashreekilari/"><img src="https://img.shields.io/badge/LinkedIn-Hemashree%20Kilari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/H-E-M-A-27"><img src="https://img.shields.io/badge/GitHub-H-E-M-A--27-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
