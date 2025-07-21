@@ -83,12 +83,12 @@
 
 ## 💡 Projects
 
-### ☀️ [**Solar Vision**](https://www.linkedin.com/posts/hemashreekilari_solarvision-forecasting-machinelearning-activity-YOUR-LINKEDIN-POST-ID)  
+### ☀️ [**Solar Vision**](https://github.com/SaiThanishvi15/Solar-Vision-V2)  
 *ML Forecasting for Solar Energy Output*  
 - Hybrid ARIMA-LSTM model built in Python  
 - Achieved 97.29% R² score for solar energy predictions  
 
-### 🎗 [**Breast Cancer Prediction**](https://www.linkedin.com/posts/hemashreekilari_machinelearning-breastcancer-python-activity-YOUR-LINKEDIN-POST-ID)  
+### 🎗 [**Breast Cancer Prediction**] (https://github.com/H-E-M-A-27/Breast-Cancer-Prediction)  
 *ML Classification Model*  
 - Used supervised + unsupervised learning  
 - Attained 84% classification accuracy  
