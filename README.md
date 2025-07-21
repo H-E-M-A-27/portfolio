@@ -50,7 +50,7 @@
 
 ## 🏢 Experience
 
-### 🔧 **eClinicalWorks** — *Interfaces Support Analyst* (Jun 2024 – Present)
+### 🖥️ **eClinicalWorks** — *Applications systems Analyst* (Jun 2024 – Present)
 - Resolved 100+ HL7 interface issues monthly ensuring seamless healthcare data flow  
 - Collaborated on 30+ live interface deployments enhancing workflow by 15%  
 - Ensured timely, compliant, and technically sound support across healthcare systems
