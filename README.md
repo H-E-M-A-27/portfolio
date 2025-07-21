@@ -88,7 +88,7 @@
 - Hybrid ARIMA-LSTM model built in Python  
 - Achieved 97.29% R² score for solar energy predictions  
 
-### 🎗 [**Breast Cancer Prediction**] (https://github.com/H-E-M-A-27/Breast-Cancer-Prediction)  
+### 🎗 [**Breast Cancer Prediction**](https://github.com/H-E-M-A-27/Breast-Cancer-Prediction)  
 *ML Classification Model*  
 - Used supervised + unsupervised learning  
 - Attained 84% classification accuracy  
