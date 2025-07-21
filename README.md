@@ -5,7 +5,7 @@
 
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" alt="Hemashree Kilari" />
+  <img src="IMG_7397.jpeg" width="150" style="border-radius: 50%;" alt="Hemashree Kilari" />
 </p>
 
 <h1 align="center">Hi, I'm Hemashree Kilari 👋</h1>
